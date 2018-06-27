@@ -7,14 +7,15 @@ Leonardo.
 
 Features:
 
- * Format to match a cheap USB keypad case
  * ATmega 32u4 MCU
- * Piezo transducer for sound output
- * USB connector
+ * 20-key keypad (4x5 matrix)
+ * HWB (hardware boot) button and solder jumper to allow disabling bootloader
+ * 128x32 OLED module
+ * USB-C connector
 
 You can view more details at:
 
-  http://www.freetronics.com/leopad
+  http://www.freetronics.com.au/leopad
 
 
 INSTALLATION
