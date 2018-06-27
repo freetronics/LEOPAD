@@ -3,7 +3,7 @@
 <eagle version="9.0.1">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
@@ -5797,13 +5797,16 @@ Row4: D10</text>
 </sheet>
 </sheets>
 <errors>
+<approved hash="104,1,40.64,45.72,U$15,V+,USB+,,,"/>
+<approved hash="104,1,53.34,45.72,U$15,V+,USB+,,,"/>
+<approved hash="104,1,53.34,76.2,U$15,V+,USB+,,,"/>
+<approved hash="104,1,40.64,76.2,U$15,V+,USB+,,,"/>
 <approved hash="106,1,213.36,76.2,A0,,,,,"/>
 <approved hash="106,1,213.36,78.74,A1,,,,,"/>
 <approved hash="106,1,213.36,81.28,A2,,,,,"/>
 <approved hash="106,1,213.36,83.82,A3,,,,,"/>
 <approved hash="106,1,213.36,86.36,A4,,,,,"/>
 <approved hash="106,1,213.36,88.9,A5,,,,,"/>
-<approved hash="106,1,213.36,63.5,D5,,,,,"/>
 <approved hash="106,1,213.36,68.58,D7_AIN0,,,,,"/>
 <approved hash="106,1,213.36,55.88,D11,,,,,"/>
 <approved hash="106,1,213.36,60.96,D13,,,,,"/>
